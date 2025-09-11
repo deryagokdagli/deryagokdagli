@@ -20,7 +20,13 @@ I focus on integrating my mathematical thinking skills into data analysis proces
 
 ## 💼 Projects
 
-- **Kardelen** – Anonymous complaint platform advocating for educational rights (Flutter & Firebase)    
+- **KardelenMobileApp_troiacode17** – A mobile application providing a secure and anonymous platform for primary and secondary school students, teachers, and parents to report educational issues and complaints to the appropriate institutions. Users can log in with email and password, submit complaints anonymously, and track their status. (Flutter & Firebase)
+
+- **OperaBale_Analytics** – Analyzed Turkish opera and ballet data using TÜİK statistics to explore audience numbers, number of performances, and their relationships with other factors. (Python, Pandas, Matplotlib)
+
+- **2024ParisOlympics-FileninSultanlari** – Performance analysis of the Turkish Women's Volleyball Team (“Filenin Sultanları”) at the 2024 Paris Olympics, showing player contributions and position-based statistics. (Python, Pandas, Matplotlib)
+
+- **IMDB_Top250_Movies** – Data analysis of IMDb Top 250 movies including genre, rating, year, director, age classification, budget, and revenue. Handled missing data using median imputation and created visualizations with Matplotlib. (Python, Pandas, Matplotlib)
 
 ---
 
