@@ -21,22 +21,22 @@ I focus on integrating my mathematical thinking skills into data analysis proces
 ## 💼 Projects
 
 - **KardelenMobileApp_troiacode17** – A mobile application providing a secure and anonymous platform for primary and secondary school students, teachers, and parents to report educational issues and complaints to the appropriate institutions. Users can log in with email and password, submit complaints anonymously, and track their status. (Flutter & Firebase)
-Link: https://github.com/deryagokdagli/kardelenMobileApp_troiacode17.git
+- Link: https://github.com/deryagokdagli/kardelenMobileApp_troiacode17.git
 
 - **PostgreSQL-Video-Games-Analysis** - A PostgreSQL-based project that analyzes video game sales data, evaluates trends and performance, and creates point-based categories.
-Link: https://github.com/deryagokdagli/PostgreSQL-Video-Games-Analysis.git
+- Link: https://github.com/deryagokdagli/PostgreSQL-Video-Games-Analysis.git
 
-- **arch-Posey-PostgreSQL-Data-Analysis** - This repository contains SQL queries for customer, sales, and region analyses on the Parch & Posey dataset using PostgreSQL.
-Link: https://github.com/deryagokdagli/Parch-Posey-PostgreSQL-Data-Analysis.git
+- **Parch-Posey-PostgreSQL-Data-Analysis** - This repository contains SQL queries for customer, sales, and region analyses on the Parch & Posey dataset using PostgreSQL.
+- Link: https://github.com/deryagokdagli/Parch-Posey-PostgreSQL-Data-Analysis.git
 
 - **OperaBale_Analytics** – Analyzed Turkish opera and ballet data using TÜİK statistics to explore audience numbers, number of performances, and their relationships with other factors. (Python, Pandas, Matplotlib)
-Link: https://github.com/deryagokdagli/OperaBale_Analytics.git
+- Link: https://github.com/deryagokdagli/OperaBale_Analytics.git
 
 - **2024ParisOlympics-FileninSultanlari** – Performance analysis of the Turkish Women's Volleyball Team (“Filenin Sultanları”) at the 2024 Paris Olympics, showing player contributions and position-based statistics. (Python, Pandas, Matplotlib)
-Link: https://github.com/deryagokdagli/2024ParisOlympics-FileninSultanlari.git
+- Link: https://github.com/deryagokdagli/2024ParisOlympics-FileninSultanlari.git
 
 - **IMDB_Top250_Movies** – Data analysis of IMDb Top 250 movies including genre, rating, year, director, age classification, budget, and revenue. Handled missing data using median imputation and created visualizations with Matplotlib. (Python, Pandas, Matplotlib)
-Link: https://github.com/deryagokdagli/IMDB_Top250_Movies.git
+- Link: https://github.com/deryagokdagli/IMDB_Top250_Movies.git
 
 ---
 
