@@ -29,6 +29,9 @@ I focus on integrating my mathematical thinking skills into data analysis proces
 - **Parch-Posey-PostgreSQL-Data-Analysis** - This repository contains SQL queries for customer, sales, and region analyses on the Parch & Posey dataset using PostgreSQL.
 - Link: https://github.com/deryagokdagli/Parch-Posey-PostgreSQL-Data-Analysis.git
 
+- **Video-Games-Analysis** - Video game sales and review data have been analyzed using a Kaggle dataset, highlighting trends and relationships.
+- Link: https://github.com/deryagokdagli/Video-Game-Analysis.git
+
 - **OperaBale_Analytics** – Analyzed Turkish opera and ballet data using TÜİK statistics to explore audience numbers, number of performances, and their relationships with other factors. (Python, Pandas, Matplotlib)
 - Link: https://github.com/deryagokdagli/OperaBale_Analytics.git
 
